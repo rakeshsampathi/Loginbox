@@ -1,0 +1,32 @@
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2016/10/22/17/46/mountains-1761292_1280.jpg");
+  background-size: 100%;
+}
+h1 {
+  text-align: center;
+  color: rgb(3, 2, 2);
+}
+#form1 {
+  width: 300px;
+  padding: 1px 70px 2px 100px;
+  color: rgb(238, 247, 236);
+  margin: 90px 0px 10px 300px;
+  border: 2px solid rgb(224, 212, 100);
+  font-size: larger;
+  border-radius: 12px;
+}
+.inputstyle {
+  background-color: rgb(209, 235, 140);
+  width: 300px;
+  padding: 0px 10px 0px 2px;
+}
+#smtstyle {
+  background-color: rgb(233, 200, 171);
+  font-size: large;
+}
+#optstyle {
+  color: rgb(209, 235, 140);
+}
+.label1 {
+  color: rgb(181, 250, 19);
+}
